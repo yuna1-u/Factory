@@ -19,7 +19,7 @@ public class Factory {
         unusedCount++;
     }
 
-    public Factory(String factoryName, int annualTurnover, String owner, int numOfFactorys) {
+    public Factory(String factoryName, int annualTurnover, String owner) {
 
         this.factoryName = factoryName;
         this.annualTurnover = annualTurnover;
