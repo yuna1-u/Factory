@@ -3,7 +3,7 @@ public class Factory {
     private String factoryName;
     private int annualTurnover;
     private String owner;
-    String[] factories = new String[3];
+    String[] factories = new String[10];
     public static int allCount = 0;
     public static int unusedCount = 0;
 
